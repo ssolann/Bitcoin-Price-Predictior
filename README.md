@@ -1,4 +1,4 @@
-# Bitcoin-Price-Predictior
+# Bitcoin-Price-Predictor
 
 This project predicts the future price of Bitcoin using historical data on the price of Bitcoin, along with data from Wikipedia about edits to the Bitcoin page. The prediction is made by training machine learning models on the combined data.
 
